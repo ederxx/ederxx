@@ -26,4 +26,4 @@
   <a href="https://www.instagram.com/eder_x"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
    <a href="https://www.youtube.com/channel/UCEo_zowyW3jxPLtGiZWiVDQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
  </div>
-![snake gif](https://github.com/ederxx/ederxx/O/blob/output/github-contribution-grid-snake.svg)
+
