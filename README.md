@@ -2,7 +2,7 @@
 <div>
 <div style="display: inline_block"> <br>
   <a href="https://github.com/ederxx">
-  <img height"180em" src="https://github-readme-stats.vercel.app/api?username=ederxx&show_icons=true&theme=dark#gh-dark-mode-only
+  <img height"180em" src="https://github-readme-stats.vercel.app/api?username=ederxx&show_icons=true&theme=dark#gh-dark-mode-only">
  </div>
 - 🔭 Hoje Trabalho com Front-end
 - 🌱 Estudando Reactjs
